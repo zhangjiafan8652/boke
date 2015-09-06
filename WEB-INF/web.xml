@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Createserverlet</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Dingdan</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>dingdan2</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.dingdan2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>zouzhelvxingceshi</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.zouzhelvxingceshi</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>zouzheceshisijixianlu</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.zouzheceshisijixianlu</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>zouzhehuoqudidian</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.zouzhehuoqudidian</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Createroute</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Createroute</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CreateTable</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.CreateTable</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Bashuju</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Bashuju</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Seachshuju</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Seachshuju</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Bashujutopnews</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Bashujutopnews</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BaMzhan</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.BaMzhan</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ceshi</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.ceshi</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Createcosplaytablesetverlet</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Createcosplaytablesetverlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BaMzhancosplay</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.BaMzhancosplay</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>createcosplaytopnews</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.createcosplaytopnews</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BaMzhancosplaytopnews</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.BaMzhancosplaytopnews</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Seachcosplayshuju</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.Seachcosplayshuju</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Createyytable</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.yywan.Createyytable</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Bayytiaomushuju</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.yywan.Bayytiaomushuju</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Searyy</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.yywan.Searyy</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Bayytopnewsshuju1</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.yywan.Bayytopnewsshuju1</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Bayytiaomushuju2</servlet-name>
+    <servlet-class>com.zouzhe.wanwan.yywan.Bayytiaomushuju2</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <servlet-mapping>
+    <servlet-name>Createserverlet</servlet-name>
+    <url-pattern>/servlet/Createserverlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>dingdan2</servlet-name>
+    <url-pattern>/servlet/dingdan2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>zouzhelvxingceshi</servlet-name>
+    <url-pattern>/servlet/zouzhelvxingceshi</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>zouzheceshisijixianlu</servlet-name>
+    <url-pattern>/servlet/zouzheceshisijixianlu</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>zouzhehuoqudidian</servlet-name>
+    <url-pattern>/servlet/zouzhehuoqudidian</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Createroute</servlet-name>
+    <url-pattern>/servlet/Createroute</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CreateTable</servlet-name>
+    <url-pattern>/servlet/CreateTable</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Bashuju</servlet-name>
+    <url-pattern>/servlet/Bashuju</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Seachshuju</servlet-name>
+    <url-pattern>/servlet/Seachshuju</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Bashujutopnews</servlet-name>
+    <url-pattern>/servlet/Bashujutopnews</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BaMzhan</servlet-name>
+    <url-pattern>/servlet/BaMzhan</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ceshi</servlet-name>
+    <url-pattern>/servlet/ceshi</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Createcosplaytablesetverlet</servlet-name>
+    <url-pattern>/servlet/Createcosplaytablesetverlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BaMzhancosplay</servlet-name>
+    <url-pattern>/servlet/BaMzhancosplay</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>createcosplaytopnews</servlet-name>
+    <url-pattern>/servlet/createcosplaytopnews</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BaMzhancosplaytopnews</servlet-name>
+    <url-pattern>/servlet/BaMzhancosplaytopnews</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Seachcosplayshuju</servlet-name>
+    <url-pattern>/servlet/Seachcosplayshuju</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Createyytable</servlet-name>
+    <url-pattern>/servlet/Createyytable</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Bayytiaomushuju</servlet-name>
+    <url-pattern>/servlet/Bayytiaomushuju</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Searyy</servlet-name>
+    <url-pattern>/servlet/Searyy</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Bayytopnewsshuju1</servlet-name>
+    <url-pattern>/servlet/Bayytopnewsshuju1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Bayytiaomushuju2</servlet-name>
+    <url-pattern>/servlet/Bayytiaomushuju2</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
